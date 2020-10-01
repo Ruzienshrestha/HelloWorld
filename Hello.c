@@ -3,4 +3,5 @@
 
 int main() {
   if(printf("Hello, C");)
+    { }
 }
