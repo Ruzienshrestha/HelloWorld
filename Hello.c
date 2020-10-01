@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello, C");
+  if(printf("Hello, C");)
 }
